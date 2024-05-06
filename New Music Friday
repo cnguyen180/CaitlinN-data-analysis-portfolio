@@ -1,0 +1,30 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "6fdce026",
+   "metadata": {},
+   "source": [
+    "# New Music Friday\n",
+    "\n",
+    "*How does Spotify determine who is on the cover for their New Music Playlist?*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0f4b5839",
+   "metadata": {},
+   "source": [
+    "## Goal\n",
+    "\n",
+    "*The goal of this project for Universal Music Group is to identify strategies that will maximize the chances of their artists' songs being featured on popular Spotify playlists, such as "New Music Friday." This involves analyzing various factors such as solo streaming numbers, daily streaming trends, and the role of being the lead artist, to determine the most effective ways to enhance an artist's visibility and streaming success on Spotify. The ultimate aim is to leverage these insights to better position artists for playlist inclusion, thereby increasing their exposure and potentially boosting their overall streaming performance.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1f7baae1",
+   "metadata": {},
+   "source": [
+    "## Setup"
+   ]
+  },
