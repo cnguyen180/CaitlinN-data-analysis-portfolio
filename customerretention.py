@@ -1,10 +1,4 @@
 '''
-Caitlin Nguyen
-#2352689
-caitnguyen@chapman.edu
-CPSC 392-1
-HW 1
-
 
 This code and analysis focused on predicting customer spending behavior and exploring trends in customer attributes for a clothing store dataset.
 
